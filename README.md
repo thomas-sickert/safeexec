@@ -1,4 +1,4 @@
-# Haxzored by gdomingu
+# Haxzored by trent-j
 
 # safeexec
 
