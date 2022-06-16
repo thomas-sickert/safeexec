@@ -1,3 +1,5 @@
+# Haxzored by gdomingu
+
 # safeexec
 
 A Go module that provides a stabler alternative to `exec.LookPath()` that:
